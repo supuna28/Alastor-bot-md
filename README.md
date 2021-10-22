@@ -1,6 +1,10 @@
 # ✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊𝙍 𝘽𝙊⃟𝙏🔥✟
 
 O alastor bot consiste em um bot de whatsapp que utiliza a mais recente api baileys md que está em beta, o que mais destaca no alastor bot é que ele é o primeiro bot brasileiro a ser públicado no github e que possui uma estrutura de código semelhante a do mhankbars para que não seja estranho editar e continuar com os mesmo comandos de instalar o bot.
+<b>Caso esteja interessado nesse bot e queira a base descriptografada entre em contato comigo para podermos negociar [clique aqui](https://wa.me/557187645787) para me chamar no whatsapp.</b>
+
+----
+
 <h1 align="center">
     <p>
         <img src= "https://c.tenor.com/Ona4GlIc9toAAAAC/hazbin-hotel-alastor.gif">
@@ -20,6 +24,7 @@ O alastor bot consiste em um bot de whatsapp que utiliza a mais recente api bail
 
 # Índice 
 
+- [Base Descriptograda](#Base-Descriptograda)
 - [O que há de novo?](#O-que-há-de-novo?)
 - [Instalação](#⬇️-Instalação)
 - [Mudando as configurações](#🙋‍♂️-Mudando-as-configurações-do-bot)
@@ -39,7 +44,7 @@ Este bot esta protegido com a licença MIT ou seja, será permitido a distribui�
 # ❌ Alerta ❌
 <b> O baileys md está em beta e está rodeado de bugs de conexão e instabilidade, algumas mensganes podem se repetir ou não ser lidas, porém com o tempo isso vai ser corrgido. </b>
 
------
+----
 
 # O que há de novo?
 ---------
