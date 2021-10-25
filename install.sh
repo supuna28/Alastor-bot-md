@@ -22,7 +22,7 @@ if [ "$inp" = "s" ]; then
     pkg install graphicsmagick 
     pkg install imagemagick 
     npm install
-    npm install pm2 -g
+    npm i github:ianmsfvenom/baileys#multi-device
     echo $GREEN"Hmmm tudo certo pode dar npm start, escanear o código e se divirta com o bot :)"
 fi
 if [ "$inp" = "n" ]; then
